@@ -13,6 +13,7 @@ An actuator is a manufacturing term that refers to a mechanical device for movin
 
 Refer the Documentation for actuator--->
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#actuator
+go to production ready features.
 
 if dependency added the one of the endpoint can be exposed for actuator '/actuator'.
 
